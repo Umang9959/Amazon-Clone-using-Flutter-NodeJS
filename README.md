@@ -2,7 +2,7 @@
 This GitHub project hosts the development of an Amazon clone application built using the Flutter framework for the front end, Dart for programming logic, and Node.js with Express.js for the backend. MongoDB serves as the database management system to efficiently store and retrieve data.
 
 # Features:
-Client and Seller Sites: The application caters to both clients and sellers, offering distinct interfaces tailored to their specific needs and roles.
+## Client and Seller Sites: The application caters to both clients and sellers, offering distinct interfaces tailored to their specific needs and roles.
 Cloudinary Integration: Images uploaded within the application are stored and managed seamlessly using Cloudinary, ensuring efficient handling and retrieval of media assets.
 # Seller Functionality:
 Product Management: Sellers can effortlessly add and manage products, including descriptions, images, and pricing.
